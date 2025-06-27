@@ -1,23 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Pergunta',
+    'O que é mpb?',
+    'Musica popular brasileira'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Pergunta',
+    'Qual a diferença entre mpb e rock nacional?',
+    'Rock Nacional reside principalmente nos seus fundamentos e características, MPB é caracterizada por uma ampla diversidade de gêneros'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Pergunta',
+    'Qual a musica mais famosa da Rita Lee?',
+    'Mania de Vocễ'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Pergunta',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
+criaCartao(
+    'Pergunta',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
+criaCartao(
+    'Pergunta',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
