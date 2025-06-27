@@ -18,16 +18,16 @@ criaCartao(
 
 criaCartao(
     'Pergunta',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'com quantos anos Chico Buarque começou no mundo da musica?',
+    '5 anos'
 )
 criaCartao(
     'Pergunta',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'qual a musica mais famosa do Chico Buarque?',
+    'Construção'
 )
 criaCartao(
     'Pergunta',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Com quantos anos Rita Lee começou no mundo da musica?',
+    '15 anos'
 )
