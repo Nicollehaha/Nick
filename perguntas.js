@@ -15,6 +15,7 @@ criaCartao(
     'Qual a musica mais famosa da Rita Lee?',
     'Mania de Vocễ'
 )
+
 criaCartao(
     'Pergunta',
     'com quantos anos Chico Buarque começou no mundo da musica?',
